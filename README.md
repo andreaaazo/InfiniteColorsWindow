@@ -8,6 +8,12 @@ A simple window with infinite number of growing rectangles.<br />Each of them ha
 
 <br />
 
+## 👀 To-do
+- [ ] Delete rectangles off-screen
+- [ ] Center the growth
+
+<br />
+
 ## 🧬 Frameworks
 [Kivy](https://kivy.org/doc/stable/)
 
