@@ -1,10 +1,10 @@
 <div align="center">
-  <h1> Infinite Colors Window </h1>
+  <h1> Endless Colors Window </h1>
   <br />
 </div>
 
 ## 📒 Description
-A simple window with infinite number of growing rectangles.<br />Each of them have a different color, and they make a beautiful rainbow background.
+A simple window with an endless number of growing rectangles.<br />Each of them have a different color, and they make a beautiful rainbow background.
 
 <br />
 
